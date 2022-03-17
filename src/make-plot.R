@@ -26,3 +26,5 @@ ggsave(filename = "result.png",
        plot = g,
        height = 10.5, width = 14.8,
        units = "cm")
+
+sessionInfo()
